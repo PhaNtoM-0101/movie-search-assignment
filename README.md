@@ -71,11 +71,6 @@ pip install -r requirements.txt
 python movie_search.py
 ```
 
-### Run from Jupyter Notebook
-
-Open `movie_search.ipynb` in Jupyter or VS Code and run all cells.\
-An example query is included to demonstrate the search feature.
-
 ------------------------------------------------------------------------
 
 ## Testing
