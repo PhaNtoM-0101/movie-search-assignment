@@ -30,16 +30,3 @@ Unit tests are included in the `tests` folder. Run them with:
 ```bash
 python -m unittest tests/test_movie_search.py -v
 ```
-
----
-
-## Project Structure
-```
-movie-search-assignment/
-│ movie_search.py
-│ movies.csv
-│ requirements.txt
-│ README.md
-└── tests/
-    └── test_movie_search.py
-```
