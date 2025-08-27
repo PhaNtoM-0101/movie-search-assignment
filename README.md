@@ -23,7 +23,6 @@ keywords.
 
     Assignment-1/
     ├── movie_search.py           # Core Python implementation
-    ├── movie_search.ipynb        # Jupyter notebook version with documentation and demo
     ├── movies.csv                # Dataset of movies with title and plot
     ├── requirements.txt          # Python dependencies
     ├── tests/
