@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Test/coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
